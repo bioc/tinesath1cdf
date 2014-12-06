@@ -1,12 +1,11 @@
 Package: tinesath1cdf
 Title: tinesath1cdf
-Version: 1.5.0
+Version: 1.5.1
 Created: Monday August 7th 2006
 Author: Tine Casneuf
 Description: A package containing an environment represeting the
         newcdf/tinesATH1.cdf.cdf file.
 Maintainer: Tine Casneuf <tine@ebi.ac.uk>
 License: Artistic-2.0
-biocViews: AnnotationData, AffymetrixChip, ath1121501,
-        Arabidopsis_thaliana
+biocViews: Arabidopsis_thaliana_Data, ChipOnChipData
 Packaged: Monday August 7th 2006
